@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tab_icons/tab_screen.png</file>
+        <file>tab_icons/tab_tex.png</file>
+        <file>tab_icons/tab_models.png</file>
+        <file>tab_icons/tab_lighting.png</file>
+        <file>tab_icons/tab_water.png</file>
+        <file>tab_icons/warning.png</file>
+        <file>tab_icons/tab_trees.png</file>
+        <file>tab_icons/tab_grass.png</file>
+    </qresource>
+</RCC>

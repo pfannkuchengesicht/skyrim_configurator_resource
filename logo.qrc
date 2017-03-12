@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/app">
+        <file>skrm_logo.ico</file>
+        <file>skrm_conf.png</file>
+    </qresource>
+</RCC>
